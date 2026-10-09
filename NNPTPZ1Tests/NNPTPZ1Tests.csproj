@@ -56,7 +56,9 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="ComplexNumberTests.cs" />
     <Compile Include="CplxTests.cs" />
+    <Compile Include="PolynomialTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
